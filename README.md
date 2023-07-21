@@ -33,6 +33,6 @@ You can access the GitHub repository for this project at [book-search-engine](ht
 
 ## Author
 
-This project was created by Amara Ceresi. You can view their other work at [GitHub](https://github.com/amaraceresi).
+This project was created by Amara Ceresi. You can view my other work at [GitHub](https://github.com/amaraceresi).
 
 
